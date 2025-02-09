@@ -1,0 +1,9 @@
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/bin/Debug/programacionModularSeccionD.exe.config
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/bin/Debug/programacionModularSeccionD.exe
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/bin/Debug/programacionModularSeccionD.pdb
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/obj/Debug/programacionModularSeccionD.csproj.AssemblyReference.cache
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/obj/Debug/programacionModularSeccionD.csproj.CoreCompileInputs.cache
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/obj/Debug/programacionModularSeccionD.exe
+C:/Users/alumno/Desktop/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/obj/Debug/programacionModularSeccionD.pdb
+/home/jcarias/Documentos/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/obj/Debug/programacionModularSeccionD.exe
+/home/jcarias/Documentos/Clase 010225/programacionModularSeccionD/programacionModularSeccionD/obj/Debug/programacionModularSeccionD.pdb
