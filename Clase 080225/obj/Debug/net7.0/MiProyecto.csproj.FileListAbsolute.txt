@@ -1,0 +1,28 @@
+/home/jcarias/Escritorio/MiProyecto/bin/Debug/net7.0/MiProyecto
+/home/jcarias/Escritorio/MiProyecto/bin/Debug/net7.0/MiProyecto.deps.json
+/home/jcarias/Escritorio/MiProyecto/bin/Debug/net7.0/MiProyecto.runtimeconfig.json
+/home/jcarias/Escritorio/MiProyecto/bin/Debug/net7.0/MiProyecto.dll
+/home/jcarias/Escritorio/MiProyecto/bin/Debug/net7.0/MiProyecto.pdb
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.AssemblyInfoInputs.cache
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.AssemblyInfo.cs
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.csproj.CoreCompileInputs.cache
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.dll
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/refint/MiProyecto.dll
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.pdb
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/MiProyecto.genruntimeconfig.cache
+/home/jcarias/Escritorio/MiProyecto/obj/Debug/net7.0/ref/MiProyecto.dll
+/home/jcarias/Escritorio/Clase 080225/bin/Debug/net7.0/MiProyecto
+/home/jcarias/Escritorio/Clase 080225/bin/Debug/net7.0/MiProyecto.deps.json
+/home/jcarias/Escritorio/Clase 080225/bin/Debug/net7.0/MiProyecto.runtimeconfig.json
+/home/jcarias/Escritorio/Clase 080225/bin/Debug/net7.0/MiProyecto.dll
+/home/jcarias/Escritorio/Clase 080225/bin/Debug/net7.0/MiProyecto.pdb
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.AssemblyInfoInputs.cache
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.AssemblyInfo.cs
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.csproj.CoreCompileInputs.cache
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.dll
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/refint/MiProyecto.dll
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.pdb
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/MiProyecto.genruntimeconfig.cache
+/home/jcarias/Escritorio/Clase 080225/obj/Debug/net7.0/ref/MiProyecto.dll
