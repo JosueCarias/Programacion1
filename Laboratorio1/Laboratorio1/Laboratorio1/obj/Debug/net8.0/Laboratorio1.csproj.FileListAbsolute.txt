@@ -1,0 +1,14 @@
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.exe
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.deps.json
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.runtimeconfig.json
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.dll
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.pdb
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.AssemblyInfoInputs.cache
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.AssemblyInfo.cs
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.csproj.CoreCompileInputs.cache
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.dll
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\refint\Laboratorio1.dll
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.pdb
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.genruntimeconfig.cache
+E:\Mariano\Tercer Semestre\Programacion 1\Laboratorio1\Laboratorio1\Laboratorio1\obj\Debug\net8.0\ref\Laboratorio1.dll
