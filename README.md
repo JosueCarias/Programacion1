@@ -12,6 +12,7 @@
   - Factorial
   - Combinaciones
 - Laboratio 1 (tarea)
+  - MostrarMenu()   
   - anoBisiesto()
   - sueldo()
     - cuotaLaboral(double sueldoBase)
@@ -20,6 +21,8 @@
   - numeroIntermedio()
   - Combinacion()
     - factorial(int n)
+  - salir()
+  - menu()
 
 # Gay el que me copie 
 
