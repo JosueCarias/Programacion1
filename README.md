@@ -13,7 +13,7 @@
   - Combinaciones
 - Laboratio 1 (tarea)
   - Problema 1
-  - Problema 1
+  - Problema 2
 
 # Gay el que me copie 
 
