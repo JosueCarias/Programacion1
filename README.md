@@ -12,8 +12,10 @@
   - Factorial
   - Combinaciones
 - Laboratio 1 (tarea)
-  - Problema 1
-  - Problema 2
+  - anoBisiesto()
+  - sueldo()
+  - numeroIntermedio()
+  - Combinacion()
 
 # Gay el que me copie 
 
