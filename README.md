@@ -11,6 +11,9 @@
   - Menús interactivos
   - Factorial
   - Combinaciones
+- Laboratio 1 (tarea)
+  - Problema 1
+  - Problema 1
 
 # Gay el que me copie 
 
