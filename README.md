@@ -14,8 +14,12 @@
 - Laboratio 1 (tarea)
   - anoBisiesto()
   - sueldo()
+    - cuotaLaboral(double sueldoBase)
+    - cuotaPatronal(double sueldoBase)
+    - sueldoLiquido(double sueldoBase)
   - numeroIntermedio()
   - Combinacion()
+    - factorial(int n)
 
 # Gay el que me copie 
 
