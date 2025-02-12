@@ -31,6 +31,8 @@
   - clasificacion()
   - sueldoDiario()
   - sigma()
+  - ganador()
+  - tablas()
   -  ---------
   - salir()
   - menu()
