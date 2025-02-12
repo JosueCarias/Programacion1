@@ -21,6 +21,17 @@
   - numeroIntermedio()
   - Combinacion()
     - factorial(int n)
+  - vueltos()
+    - billetes100(int dinero)
+    - billetes50(int dinero)
+    - billetes20(int dinero)
+    - billetes10(int dinero)
+    - billetes5(int dinero)
+    - billetes1(int dinero)
+  - clasificacion()
+  - sueldoDiario()
+  - sigma()
+  -  ---------
   - salir()
   - menu()
 
