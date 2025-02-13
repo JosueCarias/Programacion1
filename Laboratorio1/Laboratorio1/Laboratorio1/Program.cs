@@ -31,37 +31,37 @@ namespace MiProyecto
                     Combinacion();
                     break;
                 case 5:
-                    ;
+                    vueltos();
                     break;
                 case 6:
-                    ;
+                    clasificacion();
                     break;
                 case 7:
-                    ;
+                    sueldoDiario();
                     break;
                 case 8:
-                    ;
+                    sigma();
                     break;
                 case 9:
-                    ;
+                    ganador();
                     break;
                 case 10:
-                    ;
+                    tablas();
                     break;
                 case 11:
-                    ;
+                    numeroPerfecto();
                     break;
                 case 12:
-                    ;
+                    semana();
                     break;
                 case 13:
-                    ;
+                    fibonacci();
                     break;
                 case 14:
-                    ;
+                    formula();
                     break;
                 case 15:
-                    ;
+                    año();
                     break;
                 case 16:
                     salir();
@@ -212,6 +212,361 @@ namespace MiProyecto
             return factorial;
         }
 
+        //Funcion Vueltos #5
+        static void vueltos()
+        {
+            int dinero = 0;
+
+            Console.WriteLine("Ingrese la cantidad: ");
+            dinero = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("La cantidad de billetes es:");
+            Console.WriteLine($"La cantidad de billetes de 100 {billetes100(dinero)}");
+            Console.WriteLine($"La cantidad de billetes de 50 {billetes50(dinero)}");
+            Console.WriteLine($"La cantidad de billetes de 20 {billetes20(dinero)}");
+            Console.WriteLine($"La cantidad de billetes de 10 {billetes10(dinero)}");
+            Console.WriteLine($"La cantidad de billetes de 5 {billetes5(dinero)}");
+            Console.WriteLine($"La cantidad de billetes de 1 {billetes1(dinero)}");
+
+
+        }
+        // Función para calcular billetes de 100
+        static int billetes100(int dinero)
+        {
+            return dinero / 100;
+        }
+
+        // Función para calcular billetes de 50
+        static int billetes50(int dinero)
+        {
+            return (dinero % 100) / 50;
+        }
+
+        // Función para calcular billetes de 20
+        static int billetes20(int dinero)
+        {
+            return (dinero % 50) / 20;
+        }
+
+        // Función para calcular billetes de 10
+        static int billetes10(int dinero)
+        {
+            return (dinero % 20) / 10;
+        }
+
+        // Función para calcular billetes de 5
+        static int billetes5(int dinero)
+        {
+            return (dinero % 10) / 5;
+        }
+
+        // Función para calcular billetes de 1
+        static int billetes1(int dinero)
+        {
+            return dinero % 5;
+        }
+        //Funcion INE #6
+        static void clasificacion()
+        {
+            int edad = 0;
+            string clasificacion = "";
+
+            Console.WriteLine("Ingrese la edad de la persona:");
+            edad = Convert.ToInt32(Console.ReadLine());
+
+            if (edad < 5)
+            {
+                clasificacion = "Bebé";
+            }
+            else if (edad >= 6 && edad <= 12)
+            {
+                clasificacion = "Niño";
+            }
+            else if (edad >= 13 && edad <= 17)
+            {
+                clasificacion = "Adolescente";
+            }
+            else if (edad >= 18 && edad <= 50)
+            {
+                clasificacion = "Adulto";
+            }
+            else
+            {
+                clasificacion = "Anciano";
+            }
+            Console.WriteLine($"La persona es: {clasificacion}");
+        }
+        //Funcion sueldo #9
+        static void sueldoDiario()
+        {
+            string nombre = "";
+            double horasTrabajadas = 0;
+            double pagoPorHora = 0;
+            double horasNormales = 0;
+            double horasExtras = 0;
+            double pagoHorasNormales = 0;
+            double pagoHorasExtras = 0;
+            double sueldoTotal = 0;
+
+            Console.WriteLine("Ingrese el nombre de la persona");
+            nombre = Console.ReadLine();
+
+            Console.WriteLine("Ingrese las horas trabajadas:");
+            horasTrabajadas = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el pago por hora:");
+            pagoPorHora = Convert.ToDouble(Console.ReadLine());
+
+            horasNormales = Math.Min(horasTrabajadas, 8);
+            horasExtras = Math.Max(horasTrabajadas - 8, 0);
+
+            pagoHorasNormales = horasNormales * pagoPorHora;
+            pagoHorasExtras = horasExtras * (pagoPorHora * 1.5);
+            sueldoTotal = pagoHorasNormales + pagoHorasExtras;
+
+            Console.WriteLine("\nDetalle de pagos:");
+            Console.WriteLine($"- Trabajador: {nombre}");
+            Console.WriteLine($"- Horas normales: {horasNormales} horas, Pago: {pagoHorasNormales:C}");
+            Console.WriteLine($"- Horas extras: {horasExtras} horas, Pago: {pagoHorasExtras:C}");
+            Console.WriteLine($"- Sueldo total a recibir: {sueldoTotal:C}");
+        }
+
+
+        //Funcion Sigma #8
+        static void sigma()
+        {
+            double sumatoria = 0;
+            double termino = 0;
+
+            for (int n = 1; n <= 4; n++)
+            {
+                termino = 1.0 / (n * (n + 2));
+                sumatoria += termino;
+
+                Console.WriteLine($"Para n = {n}, término = {termino}");
+            }
+
+            Console.WriteLine($"\nEl resultado de la sumatoria es: {sumatoria}");
+        }
+        //Funcion ganador 9
+        static void ganador()
+        {
+            Console.WriteLine("Ingrese el nombre del primer equipo:");
+            string equipo1 = Console.ReadLine();
+
+            Console.WriteLine($"Ingrese el marcador de {equipo1}:");
+            int marcador1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el nombre del segundo equipo:");
+            string equipo2 = Console.ReadLine();
+
+            Console.WriteLine($"Ingrese el marcador de {equipo2}:");
+            int marcador2 = Convert.ToInt32(Console.ReadLine());
+
+            if (marcador1 > marcador2)
+            {
+                Console.WriteLine($"\nEl equipo ganador es: {equipo1} ({marcador1} - {marcador2})");
+                Console.WriteLine($"El equipo perdedor es: {equipo2}");
+            }
+            else if (marcador2 > marcador1)
+            {
+                Console.WriteLine($"\nEl equipo ganador es: {equipo2} ({marcador2} - {marcador1})");
+                Console.WriteLine($"El equipo perdedor es: {equipo1}");
+            }
+            else
+            {
+                Console.WriteLine($"\nEl partido terminó en empate: {equipo1} {marcador1} - {equipo2} {marcador2}");
+            }
+        }
+        //Funcion tablas de multiplicar #10
+        static void tablas()
+        {
+            // Ciclo externo para las tablas del 1 al 10
+            for (int tabla = 1; tabla <= 10; tabla++)
+            {
+                Console.WriteLine($"\nTabla del {tabla}:");
+
+                for (int multiplicador = 1; multiplicador <= 10; multiplicador++)
+                {
+                    int resultado = tabla * multiplicador;
+                    Console.WriteLine($"{tabla} x {multiplicador} = {resultado}");
+                }
+            }
+        }
+
+        //Funcion numero perfecto #11
+        static void numeroPerfecto()
+        {
+            int numero = 0;
+
+            Console.WriteLine("Ingrese un número entero:");
+            numero = Convert.ToInt32(Console.ReadLine());
+
+            if (EsNumeroPerfecto(numero))
+            {
+                Console.WriteLine($"{numero} es un número perfecto.");
+            }
+            else
+            {
+                Console.WriteLine($"{numero} no es un número perfecto.");
+            }
+        }
+        // Función para verificar si un número es perfecto
+        static bool EsNumeroPerfecto(int numero)
+        {
+            if (numero <= 1)
+            {
+                return false;
+            }
+
+            int sumaDivisores = 0;
+     
+            for (int i = 1; i < numero; i++)
+            {
+                if (numero % i == 0)
+                {
+                    sumaDivisores += i;
+                }
+            }
+
+            return sumaDivisores == numero;
+        }
+        //Funcion semana #12
+        static void semana()
+        {
+            int numero = 0;
+            string dia = "";
+            Console.WriteLine("Ingrese un número del 1 al 7:");
+            numero = Convert.ToInt32(Console.ReadLine());
+
+            dia = ObtenerDiaDeLaSemana(numero);
+
+            if (dia != null)
+            {
+                Console.WriteLine($"El número {numero} corresponde al día: {dia}");
+            }
+            else
+            {
+                Console.WriteLine("Número no válido. Debe ser un valor entre 1 y 7.");
+            }
+        }
+        static string ObtenerDiaDeLaSemana(int numero)
+        {
+            switch (numero)
+            {
+                case 1:
+                    return "Lunes";
+                case 2:
+                    return "Martes";
+                case 3:
+                    return "Miércoles";
+                case 4:
+                    return "Jueves";
+                case 5:
+                    return "Viernes";
+                case 6:
+                    return "Sábado";
+                case 7:
+                    return "Domingo";
+                default:
+                    return null;
+            }
+        }
+        //serie de Fibonacci 13
+        static void fibonacci()
+        {
+            int cantidad = 0;
+
+            Console.WriteLine("¿Cuántos números de la serie Fibonacci desea visualizar?");
+            cantidad = Convert.ToInt32(Console.ReadLine());
+
+            List<int> serieFibonacci = ObtenerSerieFibonacci(cantidad);
+
+            Console.WriteLine("\nSerie Fibonacci:");
+            Console.WriteLine(string.Join(", ", serieFibonacci));
+        }
+
+        static List<int> ObtenerSerieFibonacci(int cantidad)
+        {
+            List<int> serie = new List<int>();
+
+            if (cantidad >= 1)
+            {
+                serie.Add(0); 
+            }
+            if (cantidad >= 2)
+            {
+                serie.Add(1); 
+            }
+
+            for (int i = 2; i < cantidad; i++)
+            {
+                int siguienteNumero = serie[i - 1] + serie[i - 2];
+                serie.Add(siguienteNumero);
+            }
+
+            return serie;
+        }
+
+        //funcion formula 14
+        static void formula()
+        {
+            double P = 0;
+            double tasaAnual = 0;
+            int plazoAnios = 0;
+            double r = 0;
+            int n = 0;
+            double A = 0;
+
+            Console.WriteLine("Ingrese el monto principal del préstamo (P):");
+            P = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Ingrese la tasa de interés anual (en decimal, por ejemplo, 0.05 para 5%):");
+            tasaAnual = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el plazo del préstamo en años:");
+            plazoAnios = Convert.ToInt32(Console.ReadLine());
+
+            r = tasaAnual / 12;
+            n = plazoAnios * 12;
+            A = CalcularPagoMensual(P, r, n);
+
+            Console.WriteLine($"\nEl pago mensual es: {A:C}");
+        }
+        static double CalcularPagoMensual(double P, double r, int n)
+        {
+            double factor = Math.Pow(1 + r, n);
+
+            double A = P * (r * factor) / (factor - 1);
+
+            return A;
+        }
+        // funcion año bisiesto #15
+        static void año()
+        {
+            Console.WriteLine("Ingrese un número entero:");
+            int numero = Convert.ToInt32(Console.ReadLine());
+
+            string resultado = ClasificarNumero(numero);
+
+            Console.WriteLine(resultado);
+        }
+        static string ClasificarNumero(int numero)
+        {
+            if (numero > 0)
+            {
+                return "El número es positivo.";
+            }
+            else if (numero < 0)
+            {
+                return "El número es negativo.";
+            }
+            else
+            {
+                return "El número es neutro (0).";
+            }
+        }
+
         //Funcion para salir #16
         static void salir()
         {
@@ -228,16 +583,16 @@ namespace MiProyecto
             Console.WriteLine("2) Cuota Laboral:");
             Console.WriteLine("3) Numero intermedio:");
             Console.WriteLine("4) Combinacion:");
-            Console.WriteLine("5) Finero Expresada En Quetzales:");
+            Console.WriteLine("5) Cantidad de billetes:");
             Console.WriteLine("6) INE:");
             Console.WriteLine("7) Calcule El Sueldo Diario:");
             Console.WriteLine("8) Sigma:");
-            Console.WriteLine("9) Calcule El Sueldo Diario:");
-            Console.WriteLine("10) Marcador Futbol:");
-            Console.WriteLine("11) Tabla De Multiplicar:");
-            Console.WriteLine("12) Numero Entero:");
-            Console.WriteLine("13) Semana Estructurada:");
-            Console.WriteLine("14) Serie Fibonacci:");
+            Console.WriteLine("9) Marcador Futbol:");
+            Console.WriteLine("10) Tabla de multiplicar:");
+            Console.WriteLine("11) Nnumero es perfecto:");
+            Console.WriteLine("12) estructurada por 7 días:");
+            Console.WriteLine("13) Serie Fibonacci:");
+            Console.WriteLine("14) Desarrollo formula:");
             Console.WriteLine("15) Numero Entero, Entero Positivo O Entero Negativo:");
             Console.WriteLine("6) Salir:");
             Console.WriteLine("Ingrese una opcion:");
