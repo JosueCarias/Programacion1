@@ -33,7 +33,16 @@
   - sigma()
   - ganador()
   - tablas()
-  -  ---------
+  - numeroPerfecto()
+    - EsNumeroPerfecto(int numero)
+  - semana()
+    - ObtenerDiaDeLaSemana(int numero)
+  - fibonacci()
+    - ObtenerSerieFibonacci(int cantidad)
+  - formula()
+    - CalcularPagoMensual(double P, double r, int n)
+  - año()
+    - ClasificarNumero(int numero)
   - salir()
   - menu()
 
