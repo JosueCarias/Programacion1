@@ -46,7 +46,7 @@
   - salir()
   - menu()
 - Clase 3 (laboratorio)
-  -parte 1 
+  - parte 1 
     - Main(string[] args)
     - ecuacionCuadratica()
     - sigma()
