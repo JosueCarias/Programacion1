@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\bin\Debug\net8.0\programa.exe
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\bin\Debug\net8.0\programa.deps.json
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\bin\Debug\net8.0\programa.runtimeconfig.json
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\bin\Debug\net8.0\programa.dll
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\bin\Debug\net8.0\programa.pdb
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.dll
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\refint\programa.dll
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.pdb
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\programa.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Clase 150225\programa\programa\obj\Debug\net8.0\ref\programa.dll
