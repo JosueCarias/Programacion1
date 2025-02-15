@@ -97,7 +97,8 @@ namespace MiProyecto
                 case 3: triangulo(); menu(); break;
                 case 4: salir(); ; Console.ReadKey(); break;
                 default: Console.WriteLine("Opcion invalida");Console.ReadKey();menu();break;
-                
+
+
             }
         }
     }
