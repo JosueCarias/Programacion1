@@ -46,12 +46,14 @@
   - salir()
   - menu()
 - Clase 3 (laboratorio)
-  - Main(string[] args)
-  - ecuacionCuadratica()
-  - sigma()
-  - triangulo()
-  - menu()
-  - salir()
+  -parte 1 
+    - Main(string[] args)
+    - ecuacionCuadratica()
+    - sigma()
+    - triangulo()
+    - menu()
+    - salir()
+  - parte 2 
 
 # Gay el que me copie 
 
