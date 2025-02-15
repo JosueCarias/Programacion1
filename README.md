@@ -45,6 +45,13 @@
     - ClasificarNumero(int numero)
   - salir()
   - menu()
+- Clase 3 (laboratorio)
+  - Main(string[] args)
+  - ecuacionCuadratica()
+  - sigma()
+  - triangulo()
+  - menu()
+  - salir()
 
 # Gay el que me copie 
 
