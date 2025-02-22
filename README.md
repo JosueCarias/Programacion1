@@ -53,7 +53,8 @@
     - triangulo()
     - menu()
     - salir()
-  - parte 2 
+  - parte 2
+- Clase 4 (clase)
 
 # Gay el que me copie 
 
