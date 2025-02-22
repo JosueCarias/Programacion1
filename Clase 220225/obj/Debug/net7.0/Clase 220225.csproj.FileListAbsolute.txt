@@ -1,0 +1,14 @@
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.AssemblyInfoInputs.cache
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.AssemblyInfo.cs
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.csproj.CoreCompileInputs.cache
+/home/jcarias/Escritorio/Clase 220225/bin/Debug/net7.0/Clase 220225
+/home/jcarias/Escritorio/Clase 220225/bin/Debug/net7.0/Clase 220225.deps.json
+/home/jcarias/Escritorio/Clase 220225/bin/Debug/net7.0/Clase 220225.runtimeconfig.json
+/home/jcarias/Escritorio/Clase 220225/bin/Debug/net7.0/Clase 220225.dll
+/home/jcarias/Escritorio/Clase 220225/bin/Debug/net7.0/Clase 220225.pdb
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.dll
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/refint/Clase 220225.dll
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.pdb
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/Clase 220225.genruntimeconfig.cache
+/home/jcarias/Escritorio/Clase 220225/obj/Debug/net7.0/ref/Clase 220225.dll
