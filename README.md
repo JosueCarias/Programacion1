@@ -55,6 +55,17 @@
     - salir()
   - parte 2
 - Clase 4 (clase)
+  - Program
+    - void Main(string[] args)
+    - static void menu()
+    - static void volumen()
+    - tatic void expinencial()
+  - csCono
+    - public csCono(double radio,double altura)
+    - public csCono()
+    - public void setRadio(double radio)
+    - public void setAltura(double altura)
+    - public double calcularVolumen()
 
 # Gay el que me copie 
 
