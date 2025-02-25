@@ -66,6 +66,17 @@
     - public void setRadio(double radio)
     - public void setAltura(double altura)
     - public double calcularVolumen()
+- Laboratorio 2
+  - class Program
+    - static void Main(string[] args)
+    - public static void menu()
+    - public static void viaje()
+  - public class csPagoAutobus
+    - private int nAlumnos;
+    - public csPagoAutobus(int nAlumnos)
+    - public int NAlumnos
+    - public int calcularPagoAutoBus()
+    - public int calcularPagoIndividual()
 
 # Gay el que me copie 
 
