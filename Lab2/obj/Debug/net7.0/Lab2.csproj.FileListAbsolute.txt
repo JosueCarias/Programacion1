@@ -1,0 +1,14 @@
+/home/jcarias/Escritorio/Lab2/bin/Debug/net7.0/Lab2
+/home/jcarias/Escritorio/Lab2/bin/Debug/net7.0/Lab2.deps.json
+/home/jcarias/Escritorio/Lab2/bin/Debug/net7.0/Lab2.runtimeconfig.json
+/home/jcarias/Escritorio/Lab2/bin/Debug/net7.0/Lab2.dll
+/home/jcarias/Escritorio/Lab2/bin/Debug/net7.0/Lab2.pdb
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfoInputs.cache
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfo.cs
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.csproj.CoreCompileInputs.cache
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.dll
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/refint/Lab2.dll
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.pdb
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/Lab2.genruntimeconfig.cache
+/home/jcarias/Escritorio/Lab2/obj/Debug/net7.0/ref/Lab2.dll
