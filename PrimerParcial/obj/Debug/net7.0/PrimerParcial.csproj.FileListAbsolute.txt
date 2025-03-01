@@ -1,0 +1,14 @@
+/home/jcarias/Escritorio/PrimerParcial/bin/Debug/net7.0/PrimerParcial
+/home/jcarias/Escritorio/PrimerParcial/bin/Debug/net7.0/PrimerParcial.deps.json
+/home/jcarias/Escritorio/PrimerParcial/bin/Debug/net7.0/PrimerParcial.runtimeconfig.json
+/home/jcarias/Escritorio/PrimerParcial/bin/Debug/net7.0/PrimerParcial.dll
+/home/jcarias/Escritorio/PrimerParcial/bin/Debug/net7.0/PrimerParcial.pdb
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.AssemblyInfo.cs
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.dll
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/refint/PrimerParcial.dll
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.pdb
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/PrimerParcial.genruntimeconfig.cache
+/home/jcarias/Escritorio/PrimerParcial/obj/Debug/net7.0/ref/PrimerParcial.dll
