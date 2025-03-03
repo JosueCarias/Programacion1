@@ -14,8 +14,7 @@ namespace Lab2
         public csPagoAutobus(int nAlumnos){
             this.nAlumnos=nAlumnos;
         }
-       public int NAlumnos
-        {
+       public int NAlumnos{
             get { return nAlumnos; }
             set { nAlumnos = value; }
         }
