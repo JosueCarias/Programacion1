@@ -1,0 +1,14 @@
+/home/jcarias/Escritorio/Clase 080325/bin/Debug/net7.0/Clase 080325
+/home/jcarias/Escritorio/Clase 080325/bin/Debug/net7.0/Clase 080325.deps.json
+/home/jcarias/Escritorio/Clase 080325/bin/Debug/net7.0/Clase 080325.runtimeconfig.json
+/home/jcarias/Escritorio/Clase 080325/bin/Debug/net7.0/Clase 080325.dll
+/home/jcarias/Escritorio/Clase 080325/bin/Debug/net7.0/Clase 080325.pdb
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.AssemblyInfoInputs.cache
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.AssemblyInfo.cs
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.csproj.CoreCompileInputs.cache
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.dll
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/refint/Clase 080325.dll
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.pdb
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/Clase 080325.genruntimeconfig.cache
+/home/jcarias/Escritorio/Clase 080325/obj/Debug/net7.0/ref/Clase 080325.dll
