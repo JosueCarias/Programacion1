@@ -1,0 +1,14 @@
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\bin\Debug\net9.0\Laboratorio 3.exe
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\bin\Debug\net9.0\Laboratorio 3.deps.json
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\bin\Debug\net9.0\Laboratorio 3.runtimeconfig.json
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\bin\Debug\net9.0\Laboratorio 3.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\bin\Debug\net9.0\Laboratorio 3.pdb
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.AssemblyInfoInputs.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.AssemblyInfo.cs
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.csproj.CoreCompileInputs.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\refint\Laboratorio 3.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.pdb
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\Laboratorio 3.genruntimeconfig.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Laboratorio 3\obj\Debug\net9.0\ref\Laboratorio 3.dll
