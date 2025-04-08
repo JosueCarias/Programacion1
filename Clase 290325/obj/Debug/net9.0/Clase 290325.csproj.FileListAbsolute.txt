@@ -1,0 +1,14 @@
+C:\Users\josue\Documents\C#\Clase 290325\bin\Debug\net9.0\Clase 290325.exe
+C:\Users\josue\Documents\C#\Clase 290325\bin\Debug\net9.0\Clase 290325.deps.json
+C:\Users\josue\Documents\C#\Clase 290325\bin\Debug\net9.0\Clase 290325.runtimeconfig.json
+C:\Users\josue\Documents\C#\Clase 290325\bin\Debug\net9.0\Clase 290325.dll
+C:\Users\josue\Documents\C#\Clase 290325\bin\Debug\net9.0\Clase 290325.pdb
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.AssemblyInfoInputs.cache
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.AssemblyInfo.cs
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.dll
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\refint\Clase 290325.dll
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.pdb
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\Clase 290325.genruntimeconfig.cache
+C:\Users\josue\Documents\C#\Clase 290325\obj\Debug\net9.0\ref\Clase 290325.dll
