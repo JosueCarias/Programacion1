@@ -21,9 +21,9 @@ namespace Problema2
             set { tiempo = value; }
         }
 
-        public double InteresSimple()
+        public string InteresSimple()
         {
-            return Capital_inicial * Tasa_Interes * Tiempo;
+            return $"El interes es de: {Capital_inicial * Tasa_Interes * Tiempo}";
         }
     }
 }

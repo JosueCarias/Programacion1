@@ -20,8 +20,8 @@ namespace Problema2
 
             switch(opcion){
                 case 1: MostraInteres();menu();break;
-                case 2: menu();break;
-                case 3: menu();break;
+                case 2: MostrarInteresSimple();menu();break;
+                case 3: MostrarInteresCompuesto();menu();break;
                 case 4: Console.ReadKey();break;
                 default: Console.WriteLine("Opcion incorrecta");menu();break;
             }
@@ -35,11 +35,17 @@ namespace Problema2
         }
         static void MostrarInteresSimple()
         {
-            
+            Console.WriteLine("Clase interes simple");
+            var interes = new csInteres_simple(0.05,500.0,5);
+            Console.WriteLine(interes.calcular());
+            Console.ReadKey();
         }
         static void MostrarInteresCompuesto()
         {
-        
+            Console.WriteLine("Clase interes compuesto");
+            var interes = new csInteres_Compuesto(0.05,500.0,4);
+            Console.WriteLine(interes.interesCompuesto());
+            Console.ReadKey();
         }
     }
 }

@@ -9,7 +9,8 @@ namespace Problema2
     {
         private double tiempo;
 
-        public csInteres_Compuesto(double tasa_Interes,double capital_inicial,double tiempo) : base(tasa_Interes,capital_inicial){
+        public csInteres_Compuesto(double tasa_Interes,double capital_inicial,double tiempo) 
+            : base(tasa_Interes,capital_inicial){
             this.tiempo=tiempo;
         }
 
@@ -18,8 +19,9 @@ namespace Problema2
             set {tiempo=value;}
         }
 
-        public double interesCompuesto(){
-            return Capital_inicial * Math.Pow(1 + Tasa_Interes, Tiempo);
+        public string interesCompuesto(){
+            return $"El interes es de: {Capital_inicial * Math.Pow(1 + Tasa_Interes, tiempo)}";
+            
         }
     }
 }
