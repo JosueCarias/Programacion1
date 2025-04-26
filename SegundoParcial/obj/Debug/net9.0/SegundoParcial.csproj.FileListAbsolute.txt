@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.AssemblyInfo.cs
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.sourcelink.json
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\bin\Debug\net9.0\SegundoParcial.exe
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\bin\Debug\net9.0\SegundoParcial.deps.json
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\bin\Debug\net9.0\SegundoParcial.runtimeconfig.json
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\bin\Debug\net9.0\SegundoParcial.dll
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\bin\Debug\net9.0\SegundoParcial.pdb
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.dll
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\refint\SegundoParcial.dll
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.pdb
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\SegundoParcial.genruntimeconfig.cache
+C:\Users\josue\Desktop\Programacion1\SegundoParcial\obj\Debug\net9.0\ref\SegundoParcial.dll
