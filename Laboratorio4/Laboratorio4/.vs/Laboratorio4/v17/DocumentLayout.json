@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josue\\Desktop\\Programacion1\\Laboratorio4\\Laboratorio4\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB589A0-D047-4487-9867-8F7AB482B1E7}|Laboratorio4\\Laboratorio4.csproj|d:\\mariano\\tercer semestre\\programacion 1\\curso\\programacion1\\laboratorio4\\laboratorio4\\laboratorio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BB589A0-D047-4487-9867-8F7AB482B1E7}|Laboratorio4\\Laboratorio4.csproj|solutionrelative:laboratorio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB589A0-D047-4487-9867-8F7AB482B1E7}|Laboratorio4\\Laboratorio4.csproj|d:\\mariano\\tercer semestre\\programacion 1\\curso\\programacion1\\laboratorio4\\laboratorio4\\laboratorio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB589A0-D047-4487-9867-8F7AB482B1E7}|Laboratorio4\\Laboratorio4.csproj|solutionrelative:laboratorio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio4\\Form1.cs",
+              "ToolTip": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Form1.cs",
+              "RelativeToolTip": "Laboratorio4\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:04:55.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio4\\Form1.cs",
+              "ToolTip": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:04:48.371Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

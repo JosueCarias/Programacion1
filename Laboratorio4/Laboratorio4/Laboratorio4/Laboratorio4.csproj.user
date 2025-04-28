@@ -7,7 +7,19 @@
     <Compile Update="FRMBuscarCentro.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FRMBuscarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FRMEliminarCentro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMEliminarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMModificarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMNuevoEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FRMModificarCentro.cs">

@@ -30,5 +30,29 @@ namespace Laboratorio4
             FRMEliminarCentro eliminar = new FRMEliminarCentro();
             eliminar.Show();
         }
+
+        private void nuevoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FRMNuevoEstudiante nuevoEstudiante = new FRMNuevoEstudiante();
+            nuevoEstudiante.Show();
+        }
+
+        private void busquedaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FRMBuscarEstudiante buscarEstudiante = new FRMBuscarEstudiante();
+            buscarEstudiante.Show();
+        }
+
+        private void modificarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FRMModificarEstudiante modificarEstudiante = new FRMModificarEstudiante();
+            modificarEstudiante.Show();
+        }
+
+        private void eliminarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FRMEliminarEstudiante eliminarEstudiante = new FRMEliminarEstudiante();
+            eliminarEstudiante.Show();
+        }
     }
 }

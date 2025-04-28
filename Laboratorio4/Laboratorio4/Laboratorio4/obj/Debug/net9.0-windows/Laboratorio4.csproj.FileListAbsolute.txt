@@ -19,3 +19,28 @@ C:\Users\josue\Desktop\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\
 C:\Users\josue\Desktop\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarCentro.resources
 C:\Users\josue\Desktop\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarCentro.resources
 C:\Users\josue\Desktop\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarCentro.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\net9.0-windows\Laboratorio4.exe
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\net9.0-windows\Laboratorio4.deps.json
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\net9.0-windows\Laboratorio4.runtimeconfig.json
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\net9.0-windows\Laboratorio4.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\net9.0-windows\Laboratorio4.pdb
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.Form1.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarCentro.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarCentro.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarCentro.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMNuevoCentro.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.csproj.GenerateResource.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.AssemblyInfoInputs.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.AssemblyInfo.cs
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.csproj.CoreCompileInputs.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.sourcelink.json
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\refint\Laboratorio4.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.pdb
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.genruntimeconfig.cache
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\ref\Laboratorio4.dll
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMNuevoEstudiante.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarEstudiante.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarEstudiante.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarEstudiante.resources

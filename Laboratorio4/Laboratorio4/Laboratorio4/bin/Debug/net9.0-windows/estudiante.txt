@@ -1,0 +1,3 @@
+carne,nombre,direccion,telefono,fecha_nacimiento,sexo
+1,Josue Ricardo Carias Ordoñez,SMP,5330-6996,12/04/2001,Hombre
+2,Eunice Izabel Bautista Bian,CD Quetzal,1234-5679,01/10/2001,Mujer
