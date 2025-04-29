@@ -1,0 +1,3 @@
+id_catedratico,nombre,direccion,telefono,especializacion
+1,Ricardo Carias Ordoñez,SMP,5330-6996,Calculo
+2,Juan Perez Rodriguez,V.N,1234-5678,Quimica

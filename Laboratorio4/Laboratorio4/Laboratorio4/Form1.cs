@@ -54,5 +54,29 @@ namespace Laboratorio4
             FRMEliminarEstudiante eliminarEstudiante = new FRMEliminarEstudiante();
             eliminarEstudiante.Show();
         }
+
+        private void nuevoToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FRMNuevoCatedratico nuevoCatedratico = new FRMNuevoCatedratico();
+            nuevoCatedratico.Show();
+        }
+
+        private void busquedaToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FRMBuscarCatedratico buscarCatedratico = new FRMBuscarCatedratico();
+            buscarCatedratico.Show();
+        }
+
+        private void modificarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FRMModificarCatedratico modificarCatedratico = new FRMModificarCatedratico();
+            modificarCatedratico.Show();
+        }
+
+        private void eliminarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FRMEliminarCatedratico eliminarCatedratico = new FRMEliminarCatedratico();
+            eliminarCatedratico.Show();
+        }
     }
 }

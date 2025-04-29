@@ -39,8 +39,8 @@
             label1 = new Label();
             txtFecha = new TextBox();
             label5 = new Label();
-            label6 = new Label();
             txtSexo = new TextBox();
+            label6 = new Label();
             SuspendLayout();
             // 
             // btnGuardar
@@ -143,11 +143,19 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 12F);
-            label5.Location = new Point(11, 130);
+            label5.Location = new Point(55, 130);
             label5.Name = "label5";
-            label5.Size = new Size(160, 21);
+            label5.Size = new Size(116, 21);
             label5.TabIndex = 18;
-            label5.Text = "Fecha De Nacimiento:";
+            label5.Text = "Especializacion:";
+            // 
+            // txtSexo
+            // 
+            txtSexo.Location = new Point(177, 159);
+            txtSexo.Margin = new Padding(3, 2, 3, 2);
+            txtSexo.Name = "txtSexo";
+            txtSexo.Size = new Size(243, 23);
+            txtSexo.TabIndex = 5;
             // 
             // label6
             // 
@@ -158,14 +166,6 @@
             label6.Size = new Size(43, 21);
             label6.TabIndex = 20;
             label6.Text = "Sexo";
-            // 
-            // txtSexo
-            // 
-            txtSexo.Location = new Point(177, 159);
-            txtSexo.Margin = new Padding(3, 2, 3, 2);
-            txtSexo.Name = "txtSexo";
-            txtSexo.Size = new Size(243, 23);
-            txtSexo.TabIndex = 5;
             // 
             // FRMNuevoEstudiante
             // 
@@ -204,7 +204,7 @@
         private Label label1;
         private TextBox txtFecha;
         private Label label5;
-        private Label label6;
         private TextBox txtSexo;
+        private Label label6;
     }
 }

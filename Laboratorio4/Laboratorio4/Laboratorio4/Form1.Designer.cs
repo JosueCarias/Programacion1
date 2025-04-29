@@ -128,28 +128,28 @@
             // nuevoToolStripMenuItem
             // 
             nuevoToolStripMenuItem.Name = "nuevoToolStripMenuItem";
-            nuevoToolStripMenuItem.Size = new Size(180, 22);
+            nuevoToolStripMenuItem.Size = new Size(126, 22);
             nuevoToolStripMenuItem.Text = "Nuevo";
             nuevoToolStripMenuItem.Click += nuevoToolStripMenuItem_Click;
             // 
             // busquedaToolStripMenuItem
             // 
             busquedaToolStripMenuItem.Name = "busquedaToolStripMenuItem";
-            busquedaToolStripMenuItem.Size = new Size(180, 22);
+            busquedaToolStripMenuItem.Size = new Size(126, 22);
             busquedaToolStripMenuItem.Text = "Busqueda";
             busquedaToolStripMenuItem.Click += busquedaToolStripMenuItem_Click;
             // 
             // modificarToolStripMenuItem
             // 
             modificarToolStripMenuItem.Name = "modificarToolStripMenuItem";
-            modificarToolStripMenuItem.Size = new Size(180, 22);
+            modificarToolStripMenuItem.Size = new Size(126, 22);
             modificarToolStripMenuItem.Text = "Modificar";
             modificarToolStripMenuItem.Click += modificarToolStripMenuItem_Click;
             // 
             // eliminarToolStripMenuItem
             // 
             eliminarToolStripMenuItem.Name = "eliminarToolStripMenuItem";
-            eliminarToolStripMenuItem.Size = new Size(180, 22);
+            eliminarToolStripMenuItem.Size = new Size(126, 22);
             eliminarToolStripMenuItem.Text = "Eliminar";
             eliminarToolStripMenuItem.Click += eliminarToolStripMenuItem_Click;
             // 
@@ -163,26 +163,30 @@
             // nuevoToolStripMenuItem1
             // 
             nuevoToolStripMenuItem1.Name = "nuevoToolStripMenuItem1";
-            nuevoToolStripMenuItem1.Size = new Size(126, 22);
+            nuevoToolStripMenuItem1.Size = new Size(180, 22);
             nuevoToolStripMenuItem1.Text = "Nuevo";
+            nuevoToolStripMenuItem1.Click += nuevoToolStripMenuItem1_Click;
             // 
             // busquedaToolStripMenuItem1
             // 
             busquedaToolStripMenuItem1.Name = "busquedaToolStripMenuItem1";
-            busquedaToolStripMenuItem1.Size = new Size(126, 22);
+            busquedaToolStripMenuItem1.Size = new Size(180, 22);
             busquedaToolStripMenuItem1.Text = "Busqueda";
+            busquedaToolStripMenuItem1.Click += busquedaToolStripMenuItem1_Click;
             // 
             // modificarToolStripMenuItem1
             // 
             modificarToolStripMenuItem1.Name = "modificarToolStripMenuItem1";
-            modificarToolStripMenuItem1.Size = new Size(126, 22);
+            modificarToolStripMenuItem1.Size = new Size(180, 22);
             modificarToolStripMenuItem1.Text = "Modificar";
+            modificarToolStripMenuItem1.Click += modificarToolStripMenuItem1_Click;
             // 
             // eliminarToolStripMenuItem1
             // 
             eliminarToolStripMenuItem1.Name = "eliminarToolStripMenuItem1";
-            eliminarToolStripMenuItem1.Size = new Size(126, 22);
+            eliminarToolStripMenuItem1.Size = new Size(180, 22);
             eliminarToolStripMenuItem1.Text = "Eliminar";
+            eliminarToolStripMenuItem1.Click += eliminarToolStripMenuItem1_Click;
             // 
             // cursosToolStripMenuItem
             // 
