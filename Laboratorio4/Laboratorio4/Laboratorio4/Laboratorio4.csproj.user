@@ -10,6 +10,9 @@
     <Compile Update="FRMBuscarCentro.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FRMBuscarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FRMBuscarEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -19,16 +22,25 @@
     <Compile Update="FRMEliminarCentro.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FRMEliminarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FRMEliminarEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FRMModificarCatedratico.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FRMModificarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FRMModificarEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FRMNuevoCatedratico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRMNuevoCurso.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FRMNuevoEstudiante.cs">

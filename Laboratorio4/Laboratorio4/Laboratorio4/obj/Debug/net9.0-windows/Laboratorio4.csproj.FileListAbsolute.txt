@@ -48,3 +48,7 @@ D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Labor
 D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarCatedratico.resources
 D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarCatedratico.resources
 D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarCatedratico.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMNuevoCurso.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarCurso.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarCurso.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarCurso.resources

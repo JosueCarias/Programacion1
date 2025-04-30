@@ -1,0 +1,2 @@
+id_curso,nombre,descripcion
+1,Matematicas,Clase de matematicas ingenieria
