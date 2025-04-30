@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj": {}
+    "C:\\Users\\josue\\Desktop\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj": {}
   },
   "projects": {
-    "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj": {
+    "C:\\Users\\josue\\Desktop\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj",
+        "projectUniqueName": "C:\\Users\\josue\\Desktop\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj",
         "projectName": "Laboratorio4",
-        "projectPath": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj",
+        "projectPath": "C:\\Users\\josue\\Desktop\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\Laboratorio4.csproj",
         "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "D:\\Mariano\\Tercer Semestre\\Programacion 1\\Curso\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\obj\\",
+        "outputPath": "C:\\Users\\josue\\Desktop\\Programacion1\\Laboratorio4\\Laboratorio4\\Laboratorio4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
