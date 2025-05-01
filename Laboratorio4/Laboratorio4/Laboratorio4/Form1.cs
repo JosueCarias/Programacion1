@@ -102,5 +102,59 @@ namespace Laboratorio4
             FRMEliminarCurso eliminarCurso = new FRMEliminarCurso();
             eliminarCurso.Show();
         }
+
+        private void nuevoToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            FRMNuevaAsignacion nuevaAsignacion = new FRMNuevaAsignacion();
+            nuevaAsignacion.Show();
+        }
+
+        private void busquedaToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            FRMBuscarAsignacion buscarAsignacion = new FRMBuscarAsignacion();
+            buscarAsignacion.Show();
+        }
+
+        private void eliminarToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            FRMEliminarAsignacion eliminarAsignacion = new FRMEliminarAsignacion();
+            eliminarAsignacion.Show();
+        }
+
+        private void modificarToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            FRMBuscarAsignacion buscarAsignacion = new FRMBuscarAsignacion();
+            buscarAsignacion.Show();
+        }
+
+        private void modificarToolStripMenuItem2_Click_1(object sender, EventArgs e)
+        {
+            FRMModificarAsignacion modificarAsignacion = new FRMModificarAsignacion();
+            modificarAsignacion.Show();
+        }
+
+        private void nuevoToolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            FRMNuevoPago nuevoPago = new FRMNuevoPago();
+            nuevoPago.Show();
+        }
+
+        private void busquedaToolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            FRMBuscarPago buscarPago = new FRMBuscarPago();
+            buscarPago.Show();
+        }
+
+        private void modificarToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            FRMModificarPago modificarPago = new FRMModificarPago();
+            modificarPago.Show();
+        }
+
+        private void eliminarToolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            FRMEliminarPago eliminarPago = new FRMEliminarPago();
+            eliminarPago.Show();
+        }
     }
 }

@@ -1,0 +1,1 @@
+ID_DETALLE_ASIGNACION,ID_CATEDRATICO,ID_CURSO,horario,dias_impartido

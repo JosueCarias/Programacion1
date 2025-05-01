@@ -198,28 +198,28 @@
             // nuevoToolStripMenuItem2
             // 
             nuevoToolStripMenuItem2.Name = "nuevoToolStripMenuItem2";
-            nuevoToolStripMenuItem2.Size = new Size(180, 22);
+            nuevoToolStripMenuItem2.Size = new Size(144, 22);
             nuevoToolStripMenuItem2.Text = "Nuevo";
             nuevoToolStripMenuItem2.Click += nuevoToolStripMenuItem2_Click;
             // 
             // busquedaToolStripMenuItem2
             // 
             busquedaToolStripMenuItem2.Name = "busquedaToolStripMenuItem2";
-            busquedaToolStripMenuItem2.Size = new Size(180, 22);
+            busquedaToolStripMenuItem2.Size = new Size(144, 22);
             busquedaToolStripMenuItem2.Text = "Busqueda";
             busquedaToolStripMenuItem2.Click += busquedaToolStripMenuItem2_Click;
             // 
             // modificacionToolStripMenuItem
             // 
             modificacionToolStripMenuItem.Name = "modificacionToolStripMenuItem";
-            modificacionToolStripMenuItem.Size = new Size(180, 22);
+            modificacionToolStripMenuItem.Size = new Size(144, 22);
             modificacionToolStripMenuItem.Text = "Modificacion";
             modificacionToolStripMenuItem.Click += modificacionToolStripMenuItem_Click;
             // 
             // eliminarToolStripMenuItem2
             // 
             eliminarToolStripMenuItem2.Name = "eliminarToolStripMenuItem2";
-            eliminarToolStripMenuItem2.Size = new Size(180, 22);
+            eliminarToolStripMenuItem2.Size = new Size(144, 22);
             eliminarToolStripMenuItem2.Text = "Eliminar";
             eliminarToolStripMenuItem2.Click += eliminarToolStripMenuItem2_Click;
             // 
@@ -235,24 +235,28 @@
             nuevoToolStripMenuItem3.Name = "nuevoToolStripMenuItem3";
             nuevoToolStripMenuItem3.Size = new Size(126, 22);
             nuevoToolStripMenuItem3.Text = "Nuevo";
+            nuevoToolStripMenuItem3.Click += nuevoToolStripMenuItem3_Click;
             // 
             // busquedaToolStripMenuItem3
             // 
             busquedaToolStripMenuItem3.Name = "busquedaToolStripMenuItem3";
             busquedaToolStripMenuItem3.Size = new Size(126, 22);
             busquedaToolStripMenuItem3.Text = "Busqueda";
+            busquedaToolStripMenuItem3.Click += busquedaToolStripMenuItem3_Click;
             // 
             // modificarToolStripMenuItem2
             // 
             modificarToolStripMenuItem2.Name = "modificarToolStripMenuItem2";
             modificarToolStripMenuItem2.Size = new Size(126, 22);
             modificarToolStripMenuItem2.Text = "Modificar";
+            modificarToolStripMenuItem2.Click += modificarToolStripMenuItem2_Click_1;
             // 
             // eliminarToolStripMenuItem3
             // 
             eliminarToolStripMenuItem3.Name = "eliminarToolStripMenuItem3";
             eliminarToolStripMenuItem3.Size = new Size(126, 22);
             eliminarToolStripMenuItem3.Text = "Eliminar";
+            eliminarToolStripMenuItem3.Click += eliminarToolStripMenuItem3_Click;
             // 
             // pagosToolStripMenuItem
             // 
@@ -264,26 +268,30 @@
             // nuevoToolStripMenuItem4
             // 
             nuevoToolStripMenuItem4.Name = "nuevoToolStripMenuItem4";
-            nuevoToolStripMenuItem4.Size = new Size(126, 22);
+            nuevoToolStripMenuItem4.Size = new Size(180, 22);
             nuevoToolStripMenuItem4.Text = "Nuevo";
+            nuevoToolStripMenuItem4.Click += nuevoToolStripMenuItem4_Click;
             // 
             // busquedaToolStripMenuItem4
             // 
             busquedaToolStripMenuItem4.Name = "busquedaToolStripMenuItem4";
-            busquedaToolStripMenuItem4.Size = new Size(126, 22);
+            busquedaToolStripMenuItem4.Size = new Size(180, 22);
             busquedaToolStripMenuItem4.Text = "Busqueda";
+            busquedaToolStripMenuItem4.Click += busquedaToolStripMenuItem4_Click;
             // 
             // modificarToolStripMenuItem3
             // 
             modificarToolStripMenuItem3.Name = "modificarToolStripMenuItem3";
-            modificarToolStripMenuItem3.Size = new Size(126, 22);
+            modificarToolStripMenuItem3.Size = new Size(180, 22);
             modificarToolStripMenuItem3.Text = "Modificar";
+            modificarToolStripMenuItem3.Click += modificarToolStripMenuItem3_Click;
             // 
             // eliminarToolStripMenuItem4
             // 
             eliminarToolStripMenuItem4.Name = "eliminarToolStripMenuItem4";
-            eliminarToolStripMenuItem4.Size = new Size(126, 22);
+            eliminarToolStripMenuItem4.Size = new Size(180, 22);
             eliminarToolStripMenuItem4.Text = "Eliminar";
+            eliminarToolStripMenuItem4.Click += eliminarToolStripMenuItem4_Click;
             // 
             // asignacionesToolStripMenuItem
             // 
@@ -295,25 +303,25 @@
             // nuevoToolStripMenuItem5
             // 
             nuevoToolStripMenuItem5.Name = "nuevoToolStripMenuItem5";
-            nuevoToolStripMenuItem5.Size = new Size(144, 22);
+            nuevoToolStripMenuItem5.Size = new Size(180, 22);
             nuevoToolStripMenuItem5.Text = "Nuevo";
             // 
             // busquedaToolStripMenuItem5
             // 
             busquedaToolStripMenuItem5.Name = "busquedaToolStripMenuItem5";
-            busquedaToolStripMenuItem5.Size = new Size(144, 22);
+            busquedaToolStripMenuItem5.Size = new Size(180, 22);
             busquedaToolStripMenuItem5.Text = "Busqueda";
             // 
             // modificacionToolStripMenuItem1
             // 
             modificacionToolStripMenuItem1.Name = "modificacionToolStripMenuItem1";
-            modificacionToolStripMenuItem1.Size = new Size(144, 22);
+            modificacionToolStripMenuItem1.Size = new Size(180, 22);
             modificacionToolStripMenuItem1.Text = "Modificacion";
             // 
             // eliminarToolStripMenuItem5
             // 
             eliminarToolStripMenuItem5.Name = "eliminarToolStripMenuItem5";
-            eliminarToolStripMenuItem5.Size = new Size(144, 22);
+            eliminarToolStripMenuItem5.Size = new Size(180, 22);
             eliminarToolStripMenuItem5.Text = "Eliminar";
             // 
             // detallesToolStripMenuItem

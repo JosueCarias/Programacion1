@@ -52,3 +52,11 @@ D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Labor
 D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarCurso.resources
 D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarCurso.resources
 D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarCurso.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMNuevaAsignacion.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarAsignacion.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarAsignacion.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarAsignacion.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMNuevoPago.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMBuscarPago.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMModificarPago.resources
+D:\Mariano\Tercer Semestre\Programacion 1\Curso\Programacion1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\net9.0-windows\Laboratorio4.FRMEliminarPago.resources
